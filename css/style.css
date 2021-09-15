@@ -14,7 +14,7 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-image: url(/images/pattern-background-desktop.svg);
+    background-image: url(images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
     font-family: 'Lato', sans-serif;
