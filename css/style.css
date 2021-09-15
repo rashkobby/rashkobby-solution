@@ -34,7 +34,7 @@ body{
 
 
 .container{
-    /* display: flex; */
+    display: flex; 
     flex-direction: column;
     margin: 130px;    
     background-color: white;
