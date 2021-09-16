@@ -162,7 +162,7 @@ button:hover{
         background-size: contain;
     }
    .container{
-       /* width: 320px; */
+       width: 350px;
        height: 550px;
    }
    .plan-details{
