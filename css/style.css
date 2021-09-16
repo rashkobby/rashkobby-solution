@@ -148,7 +148,7 @@ button:hover{
     text-transform: capitalize;
     color: hsl(223, 47%, 23%);
     font-weight: 500;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .cancel:hover{
     font-weight: 600;
@@ -156,7 +156,7 @@ button:hover{
 
 
 
-@media (max-width:375px){
+@media (max-width:500px){
     body{
         background-image: url(../images/pattern-background-mobile.svg);
         background-size: contain;
