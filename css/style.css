@@ -148,7 +148,7 @@ button:hover{
     text-transform: capitalize;
     color: hsl(223, 47%, 23%);
     font-weight: 500;
-    margin-top: 12px;
+    margin-top: 10px;
 }
 .cancel:hover{
     font-weight: 600;
